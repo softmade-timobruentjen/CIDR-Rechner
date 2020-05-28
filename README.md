@@ -6,6 +6,3 @@ Eine Subnetzmaske verbirgt oder "maskiert" den Netzwerkteil der IP-Adresse eines
 
 Wenn Ihr System mit einem Netzwerk verbunden ist, können Sie in der Regel die Nummer der Subnetzmaske des Netzwerks in der Systemsteuerung (Windows) oder in der Systemeinstellung (Mac OS X) anzeigen. Die meisten Heimnetzwerke verwenden die Standard-Subnetzmaske 255.255.255.255.0. Einige Office-Netzwerke können jedoch eine andere Subnetzmaske verwenden, wie beispielsweise 255.255.255.255.128, mit der ein Netzwerk in zwei Subnetze aufgeteilt werden kann. Große Netzwerke mit mehreren tausend Rechnern können eine Subnetzmaske von 255.255.0.0.0 verwenden. Dies ist die Standard-Subnetzmaske, die von Netzwerken der Klasse B verwendet wird. Die größten Class-A-Netzwerke verwenden eine Standard-Subnetzmaske von 255.0.0.0.0.0.
 
------
-
-Powered by [Serverhelfer.de](https://serverhelfer.de)
